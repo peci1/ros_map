@@ -430,3 +430,9 @@
    lat: 49.012120
    link: http://www.fzi.de/en/research/research-sectors/anwendungsfelder-en/afeld/automation-und-robotik/
    address: Karlsruhe, Germany
+ - name: Faculty of Electrical Engineering, Czech Technical University in Prague
+   type: school
+   lat: 50.075739
+   long: 14.420056
+   link: http://www.fel.cvut.cz
+   address: Karlovo namesti, Prague, Czech republic
